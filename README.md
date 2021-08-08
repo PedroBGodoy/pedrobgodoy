@@ -14,6 +14,16 @@
 
 ##### Badges Collection
 
-<img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="120px">
-<img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="120px">
-<img src="https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" width="120px">
+<p>
+  <!-- AWS Certified Developer – Associate -->
+  <img src="https://images.credly.com/size/340x340/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png" width="120px">
+  <a href="https://www.credly.com/badges/8b44e0e5-1047-4d3c-9af0-141686884c25/public_url">
+
+  <!-- Lifelong Learning -->
+  <img src="https://images.credly.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="120px">
+  <a href="https://www.credly.com/badges/289fb8d2-6869-40de-a6ca-e2f0cac3dc36/public_url">
+  
+  <!-- Scrum Foundation Professional Certificate -->
+  <img src="https://images.credly.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" width="120px">
+  <a href="https://www.credly.com/badges/f5920000-7fa3-4a55-a084-d75b7328d286/public_url">
+</p>
