@@ -1,9 +1,9 @@
-<div align="center">
-  <h1>Hi there, I'm Pedro Godoy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+### Hi there, I'm Pedro Godoy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<p>
   <a href="https://linkedin.com/in/pedrobgodoy"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/pedrogodoyy_"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:pedrohenrique.godoy@outlook.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
-</div>
+</p>
 
 ##### BIO
 
